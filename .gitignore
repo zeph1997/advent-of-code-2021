@@ -3,3 +3,5 @@ secret.py
 __pycache__/getInput.cpython-39.pyc
 __pycache__/secret.cpython-39.pyc
 __pycache__/AdventOfCodeInputReader.cpython-39.pyc
+day3_test.py
+test.py
