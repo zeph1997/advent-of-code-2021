@@ -1,4 +1,3 @@
-from typing import final
 from AdventOfCodeInputReader import AdventOfCodeInputReader
 import secret
 from collections import defaultdict
